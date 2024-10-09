@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: 정준희(전북대 IT지능정보공학과)
 
 # Is this the primary user of the site?
 superuser: true
@@ -10,7 +10,7 @@ role: ''
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ^^7
 
 # Organizations/Affiliations
 #organizations:
@@ -18,7 +18,7 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My dream, My future.
 
 #interests:
 #- Artificial Intelligence
@@ -47,10 +47,10 @@ social:
     link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/wowchemy
+    link: https://twitter.com
   - icon: instagram
     icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://www.instagram.com/junhyi7250/
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
